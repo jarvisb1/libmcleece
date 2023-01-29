@@ -3,7 +3,6 @@
 
 #include "constants.h"
 #include "util/byte_view.h"
-
 #include <fstream>
 #include <iostream>
 #include <string>

@@ -4,8 +4,6 @@
 #include "constants.h"
 #include "util/byte_view.h"
 #include "util/File.h"
-
-#include "mceliece6960119f/crypto_kem.h"
 #include "sodium/crypto_pwhash_scryptsalsa208sha256.h"
 #include "sodium/randombytes.h"
 #include <array>
